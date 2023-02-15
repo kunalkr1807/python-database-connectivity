@@ -1,2 +1,2 @@
-# python-programs database connectivity with python
+# database(MYSQL) connectivity with python
 code related python programming
